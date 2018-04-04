@@ -6,7 +6,7 @@
 
 * Java: User interface and game logical structure design
 
-What this game does:
+# Features:
 
 * Asking the user to enter the size of gameboard and number of tanks.
 
