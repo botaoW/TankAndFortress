@@ -4,17 +4,17 @@
 
 # Built with
 
-* Java: User interface and game logical structure design
+* Java: User interface and game logical structure design.
 
 # Features:
 
-* Asking the user to enter the size of gameboard and number of tanks.
+* Ask the user to enter the size of gameboard and number of tanks.
 
-* Prompting users to guess where tanks are
+* Prompt users to guess where tanks are.
 
-* Calculating damage and hit for each turn
+* Calculate damage and hit for each turn.
 
-* Showing message to tell users the result at the end of the game.
+* Show message to tell users the result at the end of the game.
 
 # Author
 
@@ -22,7 +22,7 @@
 
 # Licsense
 
-* This project is developed under the GPL license
+* This project is developed under the GPL license.
 
 # Notice:
 ```java
